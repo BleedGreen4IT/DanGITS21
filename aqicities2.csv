@@ -1,0 +1,11 @@
+City,Total_Days,Poor_Days,AQI_Median,Zone
+Honolulu,366,0,26,west
+Anchorage,366,0,22,west
+Twin Falls,272,7,18,mountain
+Dona Ann County,366,21,53,mountain
+Lake County,366,10,36.5,central
+Orleans Parish,366,0,27,central
+Mercer County,366,3,38,east
+Aroostook County,366,1,33,east
+
+

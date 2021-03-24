@@ -1,0 +1,21 @@
+City,Total_Days,Poor_Days,AQI_Median,Zone
+Seattle,306,14,42.0,west
+San Francisco,314,22,45.0,west
+Los Angeles,275,119,81.0,west
+Denver,366,34,58.0,mountain
+Salt Lake City,366,21,50.0,mountain
+Phoenix,366,70,75.0,mountain
+Chicago,366,28,56.0,central
+St. Louis,366,10,52.0,central
+Dalas,306,24,49.0,central
+Boston,306,0,42.0,east
+Washington D.C.,366,3,42.0,east
+Miami,275,2,44.0,east
+Honolulu,366,0,26.0,west
+Anchorage,366,0,22.0,west
+Twin Falls,272,7,18.0,mountain
+Dona Ann County,366,21,53.0,mountain
+Lake County,366,10,36.5,central
+Orleans Parish,366,0,27.0,central
+Mercer County,366,3,38.0,east
+Aroostook County,366,1,33.0,east
